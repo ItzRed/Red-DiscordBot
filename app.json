@@ -1,0 +1,11 @@
+{
+	"name": "Chaotic Bot",
+	"description": "A Discord Bot for Chaoting Gaming Discord",
+	"repository": "https://github.com/ItzRed/Red-DiscordBot",
+	"logo": "https://imgur.com/8j5Jdl1.png",
+	"addons": [
+		{
+			"plan": "heroku-postgresql:hobby-dev"
+		}
+	]
+}
